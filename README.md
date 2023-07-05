@@ -1,5 +1,10 @@
 ### hola 👋
 
+<div id="header" align="center">
+		<img src="https://twitter.com/i/status/1607376158147870726" alt="" width="200">
+	</div>
+
+
 <!--
 **eric31t30/eric31t30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
