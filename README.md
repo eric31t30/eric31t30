@@ -30,7 +30,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eric31t30&theme=sunset-gradient&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric31t30_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric31t30&show_icons=true&theme=transparent)
+
+
 
 
 
