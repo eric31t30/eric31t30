@@ -1,7 +1,8 @@
 ### hola 👋
 
 <div id="header" align="center">
-	<img src="https://twitter.com/pixelchill31/status/1607371011879768065?s=20" alt="" width="200">
+	![Texto alternativo](https://twitter.com/pixelchill31/status/1607371011879768065?s=20)
+
 </div>
 
 
