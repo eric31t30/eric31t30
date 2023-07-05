@@ -16,8 +16,7 @@
 
 - 🔭 I am currently working on creating projects to improve
 
-- ⚡ curious fact: My hobby is to create ![pixel art](https://twitter.com/pixelchill31)
-      whenever I can I try to use my pixel art in my frontend codes
+- ⚡ curious fact: - ⚡ curious fact: My hobby is to create <a href="https://twitter.com/pixelchill31">pixel art</a> whenever I can I try to use my pixel art in my frontend codes
 
 
 
