@@ -1,5 +1,5 @@
 <div id="header" align="center">
-	<img src="./imagenes/banner-github x4.png" alt="banner">
+	<img src="https://drive.google.com/file/d/1hf9cwwJ8hoBWkv5hwUOxkEJBeIScaNBX/view?usp=sharing" alt="banner">
 	<h1 align="center">Hi 👋, i'm Eric</h1>
 	<h3 align="center">I am a novice programmer who is passionate about 
 		programming and looking to learn more about it 💻.</h3>
