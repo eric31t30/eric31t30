@@ -14,7 +14,7 @@
 
 - 📝 Practice to be a full stack developer
 
-- 🌱 I am currently learning **Git**
+- 🌱 I am currently learning **SQL**
 	
 - 💻 I constantly seek to improve my logic and reasoning
 
@@ -28,6 +28,7 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" 			width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" 			height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" 			width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="JS" alt="JS" 				width="40" height="40"/>&nbsp;
 </div>
 
 ---
