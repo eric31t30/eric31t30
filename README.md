@@ -14,7 +14,7 @@
 
 - 📝 Practice to be a full stack developer
 
-- 🌱 I am currently learning **SQL**
+- 🌱 I am currently learning **Node.js and Express**
 	
 - 💻 I constantly seek to improve my logic and reasoning
 
@@ -29,13 +29,15 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" 			height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" 			width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="JS" alt="JS" 				width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JS" alt="JS" 		width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="JS" alt="JS" 			width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="JS" alt="JS" 				width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="JS" alt="JS" 			width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eric31t30&theme=sunset-gradient&hide_border=true&border_radius=20)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric31t30&show_icons=true&theme=transparent)
 
 
 
